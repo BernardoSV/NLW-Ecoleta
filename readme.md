@@ -1,5 +1,5 @@
 
-<h1 align="center"><img src="./public/assets/logo.svg" width="100px" ></h1>
+<h1 align="center"><img src="./public/assets/logo.svg" width="150px" ></h1>
 <div align="center">
 <img src="https://github.com/BernardoSV/NLW-Ecoleta/blob/master/public/assets/Ecoleta.gif?" height="350px" align="left" >
 <img src="https://github.com/BernardoSV/NLW-Ecoleta/blob/master/public/assets/Ecoleta-mobile.gif?raw=true" height="350px" align"right">
