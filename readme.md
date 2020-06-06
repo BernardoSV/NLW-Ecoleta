@@ -1,9 +1,8 @@
 
-<h1 align="center"><img src="./public/assets/logo.svg" width="100px" ></h1>
-<div style="display: flex;
-justify-content:space-evenly;">
-<img src="./public/assets/ecoleta.gif" style="max-height:300px;" >
-<img src="./public/assets/ecoleta-mobile.gif" style="max-height:300px; margin-left: 5px">
+<h1 align="center"><img src="./public/assets/logo.svg" width="100%" ></h1>
+<div align="center">
+<img src="https://github.com/BernardoSV/NLW-Ecoleta/blob/master/public/assets/Ecoleta.gif?" height="350px" align="left" >
+<img src="https://github.com/BernardoSV/NLW-Ecoleta/blob/master/public/assets/Ecoleta-mobile.gif?raw=true" height="350px" align"right">
 </div>
 
 
